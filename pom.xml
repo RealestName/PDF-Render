@@ -19,7 +19,7 @@
         <dependency>
             <groupId>net.portswigger.burp.extensions</groupId>
             <artifactId>montoya-api</artifactId>
-            <version>LATEST</version>
+            <version>2024.12</version>
         </dependency>
 
         <!-- IcePDF Core -->
